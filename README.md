@@ -1,14 +1,14 @@
-#Schedule orders with web workers
+# Schedule orders with web workers
 
 This is a simple project to demonstrate how to schedule orders with web workers. 
 
-# Instalation
+## Instalation
 
 ```bash
 pnpm install
 ```
 
-# Usage
+## Usage
 
 ```bash
 pnpm run dev
